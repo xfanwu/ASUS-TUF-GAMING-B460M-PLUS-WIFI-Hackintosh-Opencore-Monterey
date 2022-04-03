@@ -1,12 +1,13 @@
 ASUS TUF GAMING B460M PLUS (WI-FI) Hackintosh Build Monterey
 ============================================================
 
+### The repository contains bootloader of Windows 11, remove the folder if you don't need it.
+
 ![OpenCore Icon](https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png)
 
 ### OpenCore Version: 0.7.9
 
 ### MacOS Monterey 12.3.1
-
 
 ### Guide Link: [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/)
 
