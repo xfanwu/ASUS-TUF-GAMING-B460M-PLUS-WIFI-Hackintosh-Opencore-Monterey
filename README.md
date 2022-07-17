@@ -3,9 +3,9 @@ ASUS TUF GAMING B460M PLUS (WI-FI) Hackintosh Build Monterey
 
 ![OpenCore Icon](https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png)
 
-### OpenCore Version: 0.7.9
+### OpenCore Version: 0.8.2
 
-### MacOS Monterey 12.3.1
+### MacOS Monterey 12.4
 
 ### Guide Link: [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/)
 
